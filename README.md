@@ -15,5 +15,5 @@ There are platforms like AgriBazaar, Farmerprice, and Farmlink, which are digita
 
 What's missing in the current technology is transparency across the entire supply chain, smooth connectivity between consumers, farmers, and all the middle-men, a reduced number of intermediaries, and easy-to-use platforms for farmers to work on a larger scale.
 
-# Aim
+## Aim
 Our platform will help create a fairer system for both farmers and consumers, with sustainability at the heart of every exchange.
