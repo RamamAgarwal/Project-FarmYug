@@ -1,5 +1,7 @@
 # FARMYUG
 
+![Farmyugnew](https://github.com/user-attachments/assets/33209bb3-9f74-456a-a1ab-18f89aa746e7)
+
 ## Problem Statement
 To address inefficiencies in agricultural supply chains by reducing intermediaries between producers and consumers, enhancing transparency, reducing food waste, and stabilising price volatility, the project aims to improve food security, productivity, and market stability, thereby preventing exploitation of producers in the agricultural sector in India.
 
