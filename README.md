@@ -1,5 +1,3 @@
-# FARMYUG
-
 ![Farmyugnew](https://github.com/user-attachments/assets/33209bb3-9f74-456a-a1ab-18f89aa746e7)
 
 ## Problem Statement
