@@ -8,7 +8,7 @@ FarmYug- A platform hosted and deployed to remove intermediaries in the agricult
 Our solution is to create a digital marketplace that directly connects farmers in Punjab with consumers, removing the need for intermediaries. This platform will empower farmers by allowing them to sell their produce at fair prices, while providing consumers with fresh, affordable agricultural products. Through a user-friendly platform, farmer training workshops, consumer awareness campaigns, and support from the government, we aim to build a fairer, more efficient supply chain that works better for both farmers and consumers.
 
 ## Stakeholders
-The users include farmers, agricultural producers, local vendors, wholesalers, distributors, and consumers in the Punjab region, with local organizations for farmers and agricultural policy-makers potentially being involved as well.
+The users include farmers (agricultural producers), local vendors, wholesalers, distributors, and consumers, with local organizations for farmers and agricultural policy-makers potentially being involved as well.
 
 ## Current Technology and its Drawbacks
 There are platforms like AgriBazaar, Farmerprice, and Farmlink, which are digital marketplaces for agricultural products, along with blockchain solutions for supply chain transparency and mobile apps like Digital Mandi India, offering agricultural information, market prices, and weather forecasts but are failing to provide a better mutually beneficial system.
